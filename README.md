@@ -1,4 +1,4 @@
-# Superstore Sales Analysis Dashboard 🚀
+# Superstore Sales Performance and Customer Analysis Project 🚀
 
 **Live Demo:** https://anshaj-superstore-dashboard-live.streamlit.app
 
