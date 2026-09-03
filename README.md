@@ -13,7 +13,7 @@ Interactive sales dashboard built to analyze Superstore dataset with real-time f
 
 ## 🛠️ Tech Stack
 - **Python** - Core programming language
-- **Streamlit and Power Bi ** - Web app framework for dashboard
+- Streamlit and Power Bi- Web app framework for dashboard
 - **Pandas** - Data manipulation and analysis
 - **Plotly** - Interactive charts and visualizations
 
